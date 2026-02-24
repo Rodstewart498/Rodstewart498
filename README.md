@@ -44,6 +44,6 @@ I come from running an ecommerce operation and got tired of manual processes —
 
 ---
 
-*I'm currently open to opportunities in business process automation, integration engineering, and ecommerce platform development.*
+*Currently open to opportunities as an Automation Engineer, Python Developer, or Backend Developer.*
 
 📫 Reach me: [Rodstewart498@gmail.com](mailto:rodstewart498@gmail.com) · [LinkedIn](https://linkedin.com/in/rod-stewart-b83641104)
